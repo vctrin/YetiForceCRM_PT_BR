@@ -72,6 +72,18 @@ $languageStrings = [
 	'LBL_EXTENSION_MODULE' => 'Módulo de Extensões',
 	'LBL_LANGUAGE_MODULE' => 'Pacote de idioma',
 	'LBL_VIEW_MODULEIMPORT' => 'Importar',
+        // Library
+        'LBL_LIBRARY_NAME' => 'Nome Biblioteca',
+        'LBL_LIBRARY_STATUS' => 'Status',
+        'LBL_LIBRARY_URL' => 'URL',
+        'LBL_LIBRARY_DIR' => 'Diretório',
+        'LBL_LIBRARY_ACTION' => 'Ação',
+        'BTN_LIBRARY_DOWNLOAD' => 'Download',
+        'BTN_LIBRARY_UPDATE' => 'Atualizar',
+        'LBL_LIBRARY_DOWNLOADED' => 'Biblioteca baixada',
+        'LBL_LIBRARY_NO_DOWNLOAD' => 'Biblioteca não baixada',
+        'LBL_LIBRARY_NEEDS_UPDATING' => 'Necessita atualização',
+        'LBL_NO_PERMISSION_TO_DIR' => 'Sem permissão diretórios',
 ];
 $jsLanguageStrings = [
 	'JS_UPDATED_MODULE' => 'Atualizado com sucesso',
