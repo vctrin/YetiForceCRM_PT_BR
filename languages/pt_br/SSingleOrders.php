@@ -1,0 +1,45 @@
+<?php
+/* {[The file is published on the basis of YetiForce Public License that can be found in the following directory: licenses/License.html]}
+Contributor: Valmir Carlos Trindade - Brazilian Portuguese Translation - valmir@ttcasolucoes.com.br */
+$languageStrings = [
+	'SSingleOrders' => 'Pedido Vendas',
+	'SINGLE_SSingleOrders' => 'Pedido Venda',
+	//BLOCKS
+	'LBL_SSINGLEORDERS_INFORMATION' => 'Informações Básicas',
+	'LBL_CUSTOM_INFORMATION' => 'Informação do Sistema',
+	'LBL_DESCRIPTION_INFORMATION' => 'Descrição',
+	'LBL_STATISTICS' => 'Estatísticas',
+	//FIELDS
+	'LBL_SUBJECT' => 'Assunto',
+	'LBL_NUMBER' => 'Número',
+	'LBL_STATUS' => 'Status',
+	'LBL_CLOSED_TIME' => 'Hora Fechamento',
+	'LBL_RESPONSE_TIME' => 'Tempo de resposta',
+	'LBL_REALIZATION_START_DATE' => 'Data início execução',
+	'LBL_REALIZATION_COMPLETION_DATE' => 'Data conclusão execução',
+	'LBL_ACTUAL_COMPLETION_DATE' => 'Data conclusão real',
+	'LBL_COMPANY_NAME' => 'Nome Empresa',
+	'SINGLE_SSalesProcesses' => 'Oportunidade',
+	'FL_TOTAL_PRICE' => 'Total Líquido',
+	'FL_MARGINP' => 'Percentual toda da margem',
+	'FL_MARGIN' => 'Margem total',
+	'FL_SUM_GROSS' => 'Valor Bruto',
+	'FL_SUM_DISCOUNT' => 'Valor desconto',
+	'FL_POS' => 'POS',
+	'FL_NUMBER_TABLE' => 'Número tabela',
+	'FL_NUMBER_SEAT' => 'Número assento',
+	'FL_STORAGE' => 'Estoque',
+	//PICKLIST VALUES
+	'PLL_DRAFT' => 'Rascunho',
+	'PLL_IN_REALIZATION' => 'Em execuçao',
+	'PLL_FOR_VERIFICATION' => 'Para verificaçao',
+	'PLL_AWAITING_SIGNATURES' => 'Aguadando assinaturas',
+	'PLL_CANCELLED' => 'Cancelado',
+	'PLL_ACCEPTED' => 'Aceito',
+	'LBL_CHANGE_STATUS' => 'Alterar Status',
+	'LBL_SYNCHRONIZE_POS' => 'Sincronizar com POS',
+	'FL_SOURCE' => 'Fonte',
+	'PLL_MANUAL' => 'Manual',
+	'PLL_POS' => 'POS',
+	'PLL_SHOP' => 'Loja',
+];
