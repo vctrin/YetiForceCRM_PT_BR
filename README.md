@@ -1,4 +1,4 @@
-# yetiforce_ptBR
+# YetiForceCRM_PT_BR
 
 Brazilian Portuguese Language Pack for YetiForceCRM
 
