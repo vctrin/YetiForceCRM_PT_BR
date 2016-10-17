@@ -4,6 +4,7 @@ Contributor: Valmir Carlos Trindade - Brazilian Portuguese Translation - valmir@
 
 $languageStrings = [
 	'OSSMail' => 'Minha Caixa de Correio',
+	'ERR_NO_MODULE_IS_INACTIVE' => 'O módulo "Caixa Entrada" está inativo e deverá ser ativado antes da configuração.' 
 ];
 
 $jsLanguageStrings = [

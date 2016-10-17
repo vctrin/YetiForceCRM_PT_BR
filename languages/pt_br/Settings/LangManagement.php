@@ -69,4 +69,5 @@ $jsLanguageStrings = [
 	'Search' => 'Pesquisar:',
 	'No data available in table' => 'Nenhuma tradução',
 	'JS_EXPORT' => 'Exportar',
+	'JS_NOTRANSLATION' => '--Nenhuma tradução--', 
 ];

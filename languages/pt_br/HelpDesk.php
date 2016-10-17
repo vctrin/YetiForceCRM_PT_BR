@@ -95,6 +95,8 @@ $languageStrings = [
 	'ticketpriorities' => 'prioridade',
 	'LBL_NO_ACCOUNTS_IN_HELPDESK' => 'O Chamado nao esta relacionado a nenhuma Conta. Por favor, crie uma relaçao.',
 	'LBL_ACCOUNTS_NO_ACTIVE_SERVICE_CONTRACTS' => 'A Conta não tem SLA ativa',
+	'LBL_NO_SERVICE_CONTRACTS_IN_HELPDESK' => 'O Chamado não está relacionado a nenhuma SLA.'
+	'LBL_SET_SERVICE_CONTRACTS_REFERENCE_DESC' => 'Ao pressionar este botão esta SLA será relacioanda com o Chamado.',
 	//notifications translation
 	'LBL_NOTICE_WELCOME' => 'Bem vindo(a) à Plataforma',
 	'LBL_NOTICE_CREATED' => 'foi criado (por',
@@ -108,6 +110,6 @@ $languageStrings = [
 	'FL_SERVICE_CONTRACTS' => 'Acordo de Nível de Serviço [SLA]',
 	'FL_SERVICE_CONTRACTS_TYPE' => 'Tipo SLA',
 	'FL_SERVICE_CONTRACTS_DATE' => 'Data validade SLA',
-	'FL_REPORT_TIME' => 'Hora Relatorio',
+	'FL_REPORT_TIME' => 'Hora Relatório',
 	'FL_RESPONSE_TIME' => 'Hora Resposta',
 ];

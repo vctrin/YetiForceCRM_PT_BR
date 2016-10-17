@@ -91,4 +91,7 @@ $languageStrings = [
 	'LBL_INVENTORY_LIMITED_FROM_POTENTIALS_INFO' => 'A lista de registros está limitada aos Produtos e Serviços associados com a Oportunidade de venda',
 	'FL_EAN_13' => 'EAN-13',
 	'FL_QTY_IN_STOCK' => 'Quantidade de produtos em estoque',
+	'pcs' => 'unidade',
+	'pack' => 'pacote',
+	'FL_POS' => 'PDV',
 ];

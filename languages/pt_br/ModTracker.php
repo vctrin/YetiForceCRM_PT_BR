@@ -32,6 +32,8 @@ $languageStrings = [
 	'LBL_REVIEW_HISTORY' => 'Historico de revisao',
 	'LBL_REVIEWED' => 'Revisado',
 	'BTN_CHANGES_REVIEWED_ON' => 'Mudanças revisadas em',
+	'LBL_NUMBER_UNREAD_MAILS' => 'Número de emails não lidos',
+	'LBL_NUMBER_UNREAD_CHANGES' => 'Número de alterações não lidas',
 	'LBL_REVIEW_CHANGES_LIMIT_DESCRIPTION' => 'Devido limite dados atualizados ter excedido, a ação foi incluída na fila de tarefas do CRON.',
 	'LBL_ESTIMATED_TIME' => 'Tempo estimado',
 ];
