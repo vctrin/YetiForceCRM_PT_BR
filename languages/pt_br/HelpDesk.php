@@ -95,7 +95,7 @@ $languageStrings = [
 	'ticketpriorities' => 'prioridade',
 	'LBL_NO_ACCOUNTS_IN_HELPDESK' => 'O Chamado nao esta relacionado a nenhuma Conta. Por favor, crie uma relaçao.',
 	'LBL_ACCOUNTS_NO_ACTIVE_SERVICE_CONTRACTS' => 'A Conta não tem SLA ativa',
-	'LBL_NO_SERVICE_CONTRACTS_IN_HELPDESK' => 'O Chamado não está relacionado a nenhuma SLA.'
+	'LBL_NO_SERVICE_CONTRACTS_IN_HELPDESK' => 'O Chamado não está relacionado a nenhuma SLA.',
 	'LBL_SET_SERVICE_CONTRACTS_REFERENCE_DESC' => 'Ao pressionar este botão esta SLA será relacioanda com o Chamado.',
 	//notifications translation
 	'LBL_NOTICE_WELCOME' => 'Bem vindo(a) à Plataforma',
